@@ -1,0 +1,50 @@
+Hit:1 http://deb.i2p2.no unstable InRelease
+Get:2 http://ftp.harukasan.org/kali kali-rolling InRelease [30.5 kB]
+Fetched 30.5 kB in 3s (11.4 kB/s)
+Reading package lists...
+Reading package lists...
+Building dependency tree...
+Reading state information...
+The following packages were automatically installed and are no longer required:
+  blender-data gdal-data libaec0 libarmadillo9 libarpack2 libblosc1
+  libboost-filesystem1.67.0 libboost-locale1.67.0 libcfitsio8 libcharls2
+  libcodec2-0.8.1 libdap25 libdapclient6v5 libdcmtk14 libepsilon1 libfreexl1
+  libfyba0 libgdal26 libgdcm3.0 libgeotiff5 libglew2.1 libhdf4-0-alt
+  libhdf5-103 libilmbase24 libjemalloc2 libkmlbase1 libkmldom1 libkmlengine1
+  liblog4cplus-1.1-9 libnetcdf15 libodbc1 libogdi4.1 libopencolorio1v5
+  libopencv-core4.1 libopencv-imgcodecs4.1 libopencv-imgproc4.1
+  libopencv-videoio4.1 libopenexr24 libopenimageio2.0 libopenvdb5.2 libqhull7
+  libraw19 libsocket++1 libspatialite7 libspnav0 libsuperlu5 libsz2 libtbb2
+  libtinyxml2.6.2v5 liburiparser1 libxerces-c3.2 libyaml-cpp0.6 odbcinst
+  odbcinst1debian2
+Use 'apt autoremove' to remove them.
+The following additional packages will be installed:
+  libc-dev-bin libc6 libc6-dev libc6-i386 libcrypt-dev libcrypt1
+  libpython3-dev libpython3-stdlib libpython3.7 libpython3.7-dev
+  libpython3.7-minimal libpython3.7-stdlib python-pip-whl python3-dev
+  python3-entrypoints python3-jeepney python3-keyring python3-keyrings.alt
+  python3-minimal python3-pkg-resources python3-secretstorage
+  python3-setuptools python3-wheel python3.7 python3.7-dev python3.7-minimal
+  zlib1g-dev
+Suggested packages:
+  glibc-doc python3-doc python3-venv gir1.2-gnomekeyring-1.0
+  python-secretstorage-doc python-setuptools-doc python3.7-venv python3.7-doc
+The following NEW packages will be installed:
+  libcrypt-dev libcrypt1 libpython3-dev libpython3.7-dev python-pip-whl
+  python3-dev python3-entrypoints python3-jeepney python3-keyring
+  python3-keyrings.alt python3-pip python3-secretstorage python3-setuptools
+  python3-wheel python3.7-dev zlib1g-dev
+The following packages will be upgraded:
+  libc-dev-bin libc6 libc6-dev libc6-i386 libpython3-stdlib libpython3.7
+  libpython3.7-minimal libpython3.7-stdlib python3 python3-minimal
+  python3-pkg-resources python3.7 python3.7-minimal
+13 upgraded, 16 newly installed, 0 to remove and 689 not upgraded.
+Need to get 50.5 MB/59.4 MB of archives.
+After this operation, 82.4 MB of additional disk space will be used.
+Get:1 http://ftp.harukasan.org/kali kali-rolling/main amd64 libpython3.7 amd64 3.7.6-1 [1,484 kB]
+Get:2 http://ftp.harukasan.org/kali kali-rolling/main amd64 python3.7 amd64 3.7.6-1 [350 kB]
+Get:3 http://ftp.harukasan.org/kali kali-rolling/main amd64 python3.7-minimal amd64 3.7.6-1 [1,812 kB]
+Get:4 http://ftp.harukasan.org/kali kali-rolling/main amd64 libpython3.7-minimal amd64 3.7.6-1 [591 kB]
+Get:5 http://ftp.harukasan.org/kali kali-rolling/main amd64 libpython3.7-stdlib amd64 3.7.6-1 [1,733 kB]
+Get:6 http://ftp.harukasan.org/kali kali-rolling/main amd64 libpython3-stdlib amd64 3.7.5-3 [20.2 kB]
+Get:7 http://ftp.harukasan.org/kali kali-rolling/main amd64 libpython3.7-dev amd64 3.7.6-1 [41.4 MB]
