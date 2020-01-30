@@ -68,7 +68,7 @@ You can choose a template which will be used by seeker from these :
 
 ```bash
 git clone https://github.com/InfoVigorous/Locationtrack
-cd seeker/
+cd Locationtrack/
 chmod 777 install.sh
 ./install.sh
 ```
