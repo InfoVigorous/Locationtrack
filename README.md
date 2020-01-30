@@ -5,13 +5,6 @@
 <img src="https://img.shields.io/badge/Docker-✔-blue.svg?style=plastic">
 </p>
 
-<p align="center">
-  <a href="https://twitter.com/thewhiteh4t"><b>Twitter</b></a>
-  <span> - </span>
-  <a href="https://t.me/thewhiteh4t"><b>Telegram</b></a>
-  <span> - </span>
-  <a href="https://thewhiteh4t.github.io"><b>thewhiteh4t's Blog</b></a>
-</p>
 
 <p align="center">
   <br>
